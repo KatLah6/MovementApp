@@ -14,4 +14,3 @@ Hello user, welcome to the Motion Detector! Let's start.
 ## Week 1:
 
 Implementing user story of week 1: Temperature querying/ Movement detector/ user name / temperature conversion.
-![flowchart drawio](https://github.com/user-attachments/assets/e02a8071-2e39-47a0-9b2b-f8f1173f84c0)
