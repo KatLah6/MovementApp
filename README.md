@@ -16,3 +16,8 @@ Hello user, welcome to the Motion Detector! Let's start.
 Implementing user story of week 1: Temperature querying/ Movement detector/ user name / temperature conversion.
 
 ![flowchart Movement App drawio](https://github.com/user-attachments/assets/8847d59c-0328-40a9-9a33-1d55755b2052)
+
+
+## Week 2:
+
+Implementation of the user story for week 2: Validating user input and user rights. Calculating user age from validated birthday input.
