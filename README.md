@@ -21,3 +21,7 @@ Implementing user story of week 1: Temperature querying/ Movement detector/ user
 ## Week 2:
 
 Implementation of the user story for week 2: Validating user input and user rights. Calculating user age from validated birthday input.
+
+## Week3:
+
+Implementation of the user story for week 3: User name generation, password generation and handling of user rights
