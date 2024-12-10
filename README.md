@@ -31,3 +31,6 @@ Implementing the guessing number game for week 4: 8 tries per round
 
 ## Week5:
 Implemented the Thingspeak API usage.
+
+## Week 6:
+Adding the menu for the user.
