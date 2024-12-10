@@ -28,3 +28,6 @@ Implementation of the user story for week 3: User name generation, password gene
 
 ## Week4:
 Implementing the guessing number game for week 4: 8 tries per round
+
+## Week5:
+Implemented the Thingspeak API usage.
