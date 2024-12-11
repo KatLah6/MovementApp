@@ -34,3 +34,6 @@ Implemented the Thingspeak API usage.
 
 ## Week 6:
 Adding the menu for the user.
+
+## Week 7:
+Added data visualization.
