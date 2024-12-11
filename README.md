@@ -37,3 +37,6 @@ Adding the menu for the user.
 
 ## Week 7:
 Added data visualization.
+
+## Week 8:
+Added user classes and class manager.
